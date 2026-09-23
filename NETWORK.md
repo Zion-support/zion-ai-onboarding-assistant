@@ -1,10 +1,17 @@
-# Zion AI Onboarding Assistant
+# Zion AI Onboarding Assistant — Zion App Network
 
-Employee and customer onboarding flows.
+Zion AI Onboarding Assistant — employee and customer onboarding flows. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-onboarding-twin](https://github.com/Zion-support/zion-ai-onboarding-twin) · [ai-hr-talent-platform](https://github.com/Zion-support/ai-hr-talent-platform) · [zion-ai-training-academy](https://github.com/Zion-support/zion-ai-training-academy) · [zion-ai-knowledge-base](https://github.com/Zion-support/zion-ai-knowledge-base)
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-onboarding-assistant/](https://ziontechgroup.com/zion-ai-onboarding-assistant/)
+- 🏠 Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Onboarding Twin](https://github.com/Zion-support/zion-ai-onboarding-twin) — digital-twin training sandboxes
+- [Zion AI Training Academy](https://github.com/Zion-support/zion-ai-training-academy) — AI-generated courses
+- [Zion AI Recruiter](https://github.com/Zion-support/zion-ai-recruiter) — candidate screening and interview intelligence
+- [Zion AI Help Desk](https://github.com/Zion-support/zion-ai-help-desk) — AI help desk
+- [Zion AI Knowledge Base](https://github.com/Zion-support/zion-ai-knowledge-base) — AI knowledge base
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
